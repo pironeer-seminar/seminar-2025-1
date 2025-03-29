@@ -13,6 +13,6 @@ TA: [정환희](https://github.com/Yeonu-Kim)
 | 03/15 | 비동기 처리                     | [PPT](https://docs.google.com/presentation/d/18x9_IBJBMvFhgF7vh5M0uQeaL0nEQyxKY5drAlcwhg4/edit?usp=sharing) |          |
 | 03/15 | (부록) 이벤트 루프              | [PPT](https://docs.google.com/presentation/d/1WNSOpWiu-1HprHlh8p_jycnG2wFMjtk-FnCfXH5Eu6k/edit?usp=sharing) |          |
 | 03/22 | 상태관리 & 데이터의 저장        | [PPT](https://docs.google.com/presentation/d/1vLVCWGBgYyrveA8m8yTXEI7O4pg9Tptf2YyGlrQ57kE/edit?usp=sharing) |          |
-| 03/29 | 프론트엔드 인프라 & CI/CD       |                                                                                                             |          |
-| 04/05 | 특강                            |                                                                                                             |          |
+| 03/29 | 프론트엔드 인프라 & CI/CD       | [PPT](https://docs.google.com/presentation/d/1MdNfObfBIe3JKM-U9ZKzbrJoybGoRUYaVfDTkIERfBQ/edit?usp=sharing) |          |
+| 04/05 | 특강                            | [PPT](https://docs.google.com/presentation/d/1kBHMn_sZ24co3KydqEPFZOO1Ul8cgIi3chksoRZTNxE/edit?usp=sharing) |          |
 | 05/03 | CORS & CSS 쉽게 사용하기 & 협업 |                                                                                                             |          |
